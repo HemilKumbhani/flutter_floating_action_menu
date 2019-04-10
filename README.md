@@ -1,16 +1,14 @@
-# flutter_fab_menu
+# flutter_floating_action_menu
 
-A new Flutter application.
+A curved floating action menu.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Project is for setting up curved floating action menu using Transform animation.
 
-A few resources to get you started if this is your first Flutter project:
+Peaple were facing issue regarding touch event of transformed button but I have solved it.
+Here is the demo of it.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+| Home Screen |  
+| ------------------ | 
+| <img src="./assets/Floating_action_button_menu_curved_demo.gif" height="500" alt="Floating_action_button"/>  | 
