@@ -7,7 +7,7 @@ A curved floating action menu.
 The Project is for setting up curved floating action menu using Transform animation.
 
 Peaple were facing issue regarding touch event of transformed button but I have solved it.
-Here is the demo of it.
+Here is the demo.
 
 | Home Screen |  
 | ------------------ | 
