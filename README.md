@@ -1,4 +1,4 @@
-# flutter_floating_action_menu
+# Flutter Floating Menu Curved
 
 A curved floating action menu.
 
