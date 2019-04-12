@@ -36,6 +36,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.2"
+  fab_action_menu:
+    dependency: "direct main"
+    description:
+      name: fab_action_menu
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.1"
   flutter:
     dependency: "direct main"
     description: flutter
